@@ -11,6 +11,7 @@
 <a href="https://x.com/zawaooabare"><img src="https://img.shields.io/badge/X-@zawaooabare-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ryo-ozawa-391816227/"><img src="https://img.shields.io/badge/LinkedIn-Ryo%20Ozawa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/ryo-ozawa"><img src="https://img.shields.io/badge/Credly-AWS%20Certs-FF6B00?style=flat-square&logo=credly&logoColor=white" /></a>
+<a href="https://zenn.dev/oza_ryo"><img src="https://img.shields.io/badge/Zenn-@oza__ryo-3EA8FF?style=flat-square&logo=zenn&logoColor=white" /></a>
 <a href="https://qiita.com/dcm_ozawa"><img src="https://img.shields.io/badge/Qiita-@dcm__ozawa-55C500?style=flat-square&logo=qiita&logoColor=white" /></a>
 
 </div>
